@@ -13,9 +13,18 @@ html_theme.show_prev_next: false
 :padding: 5
 
 % Now each row should be an adaptive grid, so that the text and image are side by side on monitors but stacked on mobile
-% Use reverse for rows where the picture should be on the left
+% The order of items dictates the order on mobile where only one thing is shown at a time
+% Use reverse for rows where the text and picture should be swapped on desktop i.e. the
+% first item in the code should be on the right not the left
 ::::::{grid} 1 1 2 2
 :gutter: 5
+:reverse:
+
+:::::{grid-item-card}
+:class-card: sd-border-0
+:shadow: none
+:img-background: /_static/home_screenshot_1.png
+:::::
 
 :::::{grid} 1
 :gutter: 5
@@ -34,12 +43,6 @@ A free and open source molecular editor and visualization tool.
 Get Avogadro
 :::
 ::::
-:::::
-
-:::::{grid-item-card}
-:class-card: sd-border-0
-:shadow: none
-:img-background: /_static/home_screenshot_1.png
 :::::
 ::::::
 
