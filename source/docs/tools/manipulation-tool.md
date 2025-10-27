@@ -46,8 +46,9 @@ Translate by:
 Rotate around:
 : Specify the angles, in degrees, to rotate the selection around the X-, Y-, and Z-axes, as well as the centre of the rotation.
 
-  The rotation can be carried out around the center of the current geometry or the origin, selected from the drop-down menu.
+  The rotation can be carried out around the geometric center of the current selection, the center of the current molecule, or the origin of the coordinates system, selected from the drop-down menu.
   The X-, Y-, and Z-axes used for the rotation will be considered to intersect at this point.
+
 
 ![Applying a mathematical rotation.](../../_static/14c1bee4-7288-4fa7-8660-d9fc58578631.png){height=300px align=center}
 
