@@ -151,6 +151,7 @@
 - Suleyman Poyraz
 - Michael Quevillon
 - RahulBahuguna-code
+- ramses-70
 - Reportiv
 - research11111
 - Reza
@@ -189,7 +190,6 @@
 - Jorge Luis Gálvez Vallejo
 - Tim Vandermeersch
 - VeryTastyTomato
-- Brás Washington
 - wb957
 - Weblate
 - Oskar Weser
