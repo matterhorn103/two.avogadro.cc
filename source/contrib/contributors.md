@@ -180,6 +180,7 @@
 - tictactoe101
 - Ricky Tigg
 - Konstantin Tokarev
+- Traductor
 - Regen Tsai
 - Tsuki
 - udopton
